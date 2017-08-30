@@ -391,7 +391,7 @@ html {
 }
 body {
   background: #fff;
-  color: #50596c;
+  color: #000;
   font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
   font-size: .7rem;
   overflow-x: hidden;
@@ -481,7 +481,7 @@ kbd {
 mark {
   background: #ffe9b3;
   border-radius: .1rem;
-  color: #50596c;
+  color: #000;
   line-height: 1;
   padding: .15rem .2rem;
 }
@@ -789,7 +789,7 @@ legend {
   background-image: none;
   border: .05rem solid #caced7;
   border-radius: .1rem;
-  color: #50596c;
+  color: #000;
   display: block;
   font-size: .7rem;
   height: 1.6rem;
@@ -1205,7 +1205,7 @@ input.disabled + .form-icon {
 .label {
   background: #f8f9fa;
   border-radius: .1rem;
-  color: #5b657a;
+  color: #0d0d0d;
   display: inline-block;
   line-height: 1;
   padding: .15rem .2rem;
@@ -1245,7 +1245,7 @@ code {
 }
 .code {
   border-radius: .1rem;
-  color: #50596c;
+  color: #000;
   line-height: 1rem;
   position: relative;
 }
